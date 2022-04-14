@@ -6,7 +6,6 @@
     font-weight: normal;
     font-family: 'Segoe UI'; 
     text-align: center;
-    
 }
 body{
     display: flex;
@@ -28,6 +27,7 @@ header{
     background: #166FF5;
     float: right;
     border: 0.2px solid;
+    border-color: #707070;
 }
 header h1{    
     line-height: 77px;
@@ -37,6 +37,7 @@ img{
     height: 80px;
     margin-right: 10px;
     border: 0.2px solid;
+    border-color: #707070;
 }
 #nav1{
     background-color: #5E5E60;
@@ -45,6 +46,7 @@ img{
     margin-top: 20px;
     float: left; 
     border: 0.2px solid;
+    border-color: #707070;
 }
 #nav1 h2{
     line-height: 45px;
@@ -57,6 +59,7 @@ img{
     margin-top: 20px;
     float: right; 
     border: 0.2px solid;
+    border-color: #707070;
 } 
 #nav2 h2{
     line-height: 45px;
@@ -68,6 +71,7 @@ img{
     margin-top: 20px;
     float: left;
     border: 0.2px solid;
+    border-color: #707070;
 }
 #busquedas{
     background-color: #C8F8BA;
@@ -76,6 +80,7 @@ img{
     margin-top: 20px;
     float: right; 
     border: 0.2px solid;
+    border-color: #707070;
 }
 #busquedas h2{
     line-height: 45px;
@@ -87,6 +92,7 @@ img{
     margin-top: 20px;
     float: right; 
     border: 0.2px solid;
+    border-color: #707070;
 }
 #noticias h2{
     line-height: 140px;
@@ -98,6 +104,7 @@ img{
     margin-top: 20px;
     float: right; 
     border: 0.2px solid;
+    border-color: #707070;
 }
 #eventos h2{
     line-height: 170px;
@@ -110,6 +117,7 @@ footer{
     margin-top: 20px;
     float: left; 
     border: 0.2px solid;
+    border-color: #707070;
 }
 footer h2{
     line-height: 60px;
